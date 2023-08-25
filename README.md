@@ -9,7 +9,7 @@ I currently work on:
 
 If you want to chat with me you can reach me on [Linkedin](https://www.linkedin.com/in/emmamaloney/).
 
-## Languages, Platforms & Tools
+### Languages, Platforms & Tools
 
 ![Node](https://img.shields.io/badge/-Node.JS-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white)
