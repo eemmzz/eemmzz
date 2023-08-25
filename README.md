@@ -2,7 +2,7 @@
 
 I'm a Software Engineering Team Lead in BBC News.
 
-I'm currently working on
+I currently work on:
 * News on Smart Speaker products 🔈
 * Text-to-speech audio Weather forecasts 🌤️
 * Maintaining the BBC's custom neural voice 🗣️
