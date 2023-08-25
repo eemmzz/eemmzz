@@ -11,7 +11,8 @@ If you want to chat with me you can reach me on [Linkedin](https://www.linkedin.
 
 ## Audio Forecasts
 
-WIP - add audio preview
+https://github.com/eemmzz/eemmzz/assets/6473657/f2ff4880-4c15-4035-aee4-8ae938f75a79
+
 
 
 <!--
