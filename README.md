@@ -4,7 +4,7 @@ I'm a Software Engineering Team Lead in BBC News.
 
 I currently work on:
 * News on Smart Speaker products 🔈
-* Text-to-speech audio Weather forecasts 🌤️
+* Text-to-speech Weather forecasts 🌤️
 * Maintaining the BBC's custom neural voice 🗣️
 
 If you want to chat with me you can reach me on [Linkedin](https://www.linkedin.com/in/emmamaloney/).
