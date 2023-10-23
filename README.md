@@ -1,8 +1,8 @@
 # Hey! 👋
 
-I'm a Software Engineering Team Lead in BBC News.
+I'm a Software Engineering Team Lead at [Vocovo](https://www.vocovo.com/) working in their Voice team (as of Oct 23).
 
-I currently work on:
+Previously I was at the BBC and worked in BBC News on:
 * News on Smart Speaker products 🔈
 * Text-to-speech Weather forecasts 🌤️
 * Maintaining the BBC's custom neural voice 🗣️
@@ -32,11 +32,9 @@ If you want to chat with me you can reach me on [Linkedin](https://www.linkedin.
 ![Photoshop](https://img.shields.io/badge/-AdobePhotoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 
 
-
 ## Audio Forecasts
 
 https://github.com/eemmzz/eemmzz/assets/6473657/f2ff4880-4c15-4035-aee4-8ae938f75a79
-
 
 
 <!--
