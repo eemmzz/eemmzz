@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm a Software Engineering Team Lead at [Vocovo](https://www.vocovo.com/) working in their Voice team (as of Oct 23).
+I'm a Software Engineering Team Lead at [Vocovo](https://www.vocovo.com/) working in their Voice team (as of Oct 23). My other GitHub account can be seen here: [emma-voco](https://github.com/emma-voco).
 
 Previously I was at the BBC and worked in BBC News on:
 * News on Smart Speaker products 🔈
